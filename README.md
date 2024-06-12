@@ -1,22 +1,6 @@
 #DemographicStudyofOnlinePlatforms_DataAnalysis
 Demographic Analysis on scrape data from multiple services across various platforms​  ​
 
-<h1 align="center" style="color:#4838D1;font-size:70px;font-family:Georgia;text-align:center;">
-    P000158SE Government Digital Transformation
-</h1>
-
-<p align="center">
-  <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="DemographicStudyofOnlinePlatforms_DataAnalysis is released under the MIT license." />
-  </a>
-</p>
-
-<p align="center">
-    <img src="assets/diagrams/CSIRO.drawio.png" alt="project logo" width="500%">
-</p>
-
-
-
 ## Overview :earth_americas:
 
 Welcome to the repository which aims to analyze and enhance online engagement with the public and stakeholders through digital channels, primarily focusing on social media platforms. Goal is to provide insightful data-driven strategies to improve communication, increase transparency, and foster public participation.
