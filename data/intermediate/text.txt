@@ -1,0 +1,1 @@
+Contains processed data that may have gone through initial cleaning or transformation but is not yet finalized for analysis.
