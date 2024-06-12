@@ -49,6 +49,7 @@ Key Features
 + Data Preprocessing: Cleaning and standardizing the collected data.
 + Sentiment Analysis: Analyzing the sentiment of discussions and reviews.
 + Topic Modeling: Identifying key topics in the discussions.
++ Frequeny Modeling: Identifying the frequency in posting.
 + Visualizations: Creating visual representations of the data and analysis results.
 
 <details><summary><h2> Platform Analysis</h2></summary>
